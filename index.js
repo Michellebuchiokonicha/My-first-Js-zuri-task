@@ -49,4 +49,4 @@ console.log(l_array);
 
 checkYuGiOH(10);
 checkYuGiOH(5);
-checkYuGiOH("fizzbuzz is meh")
+checkYuGiOH("fizzbuzz is meh");
